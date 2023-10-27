@@ -26,15 +26,16 @@
 }
 
 .scrollable::-webkit-scrollbar-thumb {
-  background-color: #797979;
+  background-color: #d0caca;
   border-radius: 20px;
-  border: 2px solid #f1f2f3;
+  border: 1px solid #f1f2f3;
 }
 
 .scrollable::-webkit-scrollbar-track {
   border-radius: 10px;
 }
 
-.container {
+.gap {
   display: flex;
+  gap: 7%;
 }

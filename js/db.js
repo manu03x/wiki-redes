@@ -121,81 +121,92 @@ const conceptos = [
     {
       "concepto": "Analíticas",
       "significado": "La analítica de redes sociales se refiere al proceso de recopilación, análisis y presentación de datos relacionados con el rendimiento y la actividad en las redes sociales. Esto incluye métricas como el alcance, la interacción, el crecimiento de seguidores y la efectividad de las campañas. La analítica de redes sociales ayuda a las empresas y los individuos a comprender el impacto de su presencia en las redes sociales y a tomar decisiones informadas para mejorar su estrategia.",
-      "img": "URL de la imagen de la analítica de redes sociales"
+      "img": "https://www.overlap.net/wp-content/uploads/2014/06/analitica.png"
     },
     {
       "concepto": "Viralización",
       "significado": "La viralización se refiere al proceso mediante el cual el contenido, como un video, una imagen o una publicación en redes sociales, se propaga rápidamente a través de compartir y repostear. El contenido viral a menudo alcanza una amplia audiencia en un corto período de tiempo. La viralización puede ser impulsada por la autenticidad, la sorpresa, el humor o la emoción, y es un objetivo común en estrategias de marketing en redes sociales.",
-      "img": "URL de la imagen de la viralización"
+      "img": "https://decidesoluciones.es/wp-content/uploads/2020/11/optimizacion-de-acciones-comerciales-1280x640.png"
     },
     {
       "concepto": "Community Manager",
       "significado": "Un Community Manager es un profesional encargado de gestionar y administrar la presencia de una marca o empresa en las redes sociales. Sus responsabilidades incluyen la creación de contenido, la interacción con la audiencia, la monitorización de comentarios y la gestión de crisis en línea. El Community Manager desempeña un papel clave en la construcción y el mantenimiento de la reputación de la marca en el entorno digital.",
-      "img": "URL de la imagen del Community Manager"
+      "img": "https://www.grid.cl/blog/wp-content/uploads/2019/03/estrategia-de-marketing-digital-en-redes-sociales-como-empezar.png"
     },
     {
       "concepto": "Calendario",
       "significado": "Un calendario de contenidos es una herramienta utilizada en la gestión de redes sociales que organiza y planifica las publicaciones en un horario específico. Ayuda a las empresas y los individuos a mantener una presencia constante en las redes sociales, a garantizar la variedad de contenido y a seguir estrategias específicas. Los calendarios de contenidos también pueden incluir fechas importantes, eventos y campañas planificadas.",
+      "img": "https://elperuano.pe/fotografia/thumbnail/2023/06/26/000254111M.jpg"
     },
     {
       "concepto": "SMM (Social Media Marketing)",
-      "significado": "El SMM, o Social Media Marketing, es el conjunto de estrategias y tácticas utilizadas para promocionar una marca, producto o servicio en las redes sociales. Esto incluye la creación de contenido, la publicidad paga en redes sociales, la gestión de la comunidad y el análisis de resultados. El SMM busca aumentar la visibilidad de la marca, la interacción con la audiencia y la conversión de seguidores en clientes."
+      "significado": "El SMM, o Social Media Marketing, es el conjunto de estrategias y tácticas utilizadas para promocionar una marca, producto o servicio en las redes sociales. Esto incluye la creación de contenido, la publicidad paga en redes sociales, la gestión de la comunidad y el análisis de resultados. El SMM busca aumentar la visibilidad de la marca, la interacción con la audiencia y la conversión de seguidores en clientes.",
+      "img": "https://www.revista.imef.org.mx/wp-content/uploads/2022/11/Redes-Sociales-como-fuentes-de-informacion-y-toma-de-decisiones.jpg"
     },
     {
       "concepto": "Retargeting",
-      "significado": "El retargeting, también conocido como remarketing, es una estrategia de publicidad en línea que muestra anuncios a usuarios que han interactuado previamente con un sitio web o una marca. Por ejemplo, si un usuario visita un sitio de comercio electrónico y ve un producto, el retargeting le mostrará anuncios relacionados con ese producto en otras páginas web que visite. Esta estrategia busca recordar a los usuarios productos o servicios que les interesaron previamente y fomentar la conversión."
+      "significado": "El retargeting, también conocido como remarketing, es una estrategia de publicidad en línea que muestra anuncios a usuarios que han interactuado previamente con un sitio web o una marca. Por ejemplo, si un usuario visita un sitio de comercio electrónico y ve un producto, el retargeting le mostrará anuncios relacionados con ese producto en otras páginas web que visite. Esta estrategia busca recordar a los usuarios productos o servicios que les interesaron previamente y fomentar la conversión.",
+      "img": "https://image.ondacero.es/clipping/cmsimages01/2021/06/30/1F2EF7C5-6F61-480C-99E4-C9CA53FFFBFF/98.jpg?crop=1416,797,x0,y0&width=1900&height=1069&optimize=high&format=webply"
     },
     {
       "concepto": "Tendencias",
-      "significado": "Las tendencias en redes sociales son temas o hashtags que están experimentando un alto volumen de discusión y participación en un momento específico. Estos temas son generalmente impulsados por eventos actuales, noticias, celebridades o viralización de contenido. Las redes sociales suelen mostrar tendencias en una sección especial para que los usuarios puedan unirse a conversaciones populares y mantenerse al tanto de lo que está sucediendo en el mundo en tiempo real."
+      "significado": "Las tendencias en redes sociales son temas o hashtags que están experimentando un alto volumen de discusión y participación en un momento específico. Estos temas son generalmente impulsados por eventos actuales, noticias, celebridades o viralización de contenido. Las redes sociales suelen mostrar tendencias en una sección especial para que los usuarios puedan unirse a conversaciones populares y mantenerse al tanto de lo que está sucediendo en el mundo en tiempo real.",
+      "img": "https://play-lh.googleusercontent.com/BmUViDVOKNJe0GYJe22hsr7juFndRVbvr1fGmHGXqHfJjNAXjd26bfuGRQpVrpJ6YbA=w240-h480-rw"
     },
     {
       "concepto": "UGC",
-      "significado": "El UGC, o Contenido Generado por el Usuario, se refiere al contenido creado y compartido en las redes sociales por los propios usuarios en lugar de la marca o empresa. Esto incluye publicaciones de usuarios, reseñas, comentarios y contenido multimedia. El UGC es valioso para las empresas porque muestra la autenticidad y el compromiso de los clientes con la marca. Muchas empresas fomentan y promueven el UGC como parte de sus estrategias de marketing en redes sociales."
+      "significado": "El UGC, o Contenido Generado por el Usuario, se refiere al contenido creado y compartido en las redes sociales por los propios usuarios en lugar de la marca o empresa. Esto incluye publicaciones de usuarios, reseñas, comentarios y contenido multimedia. El UGC es valioso para las empresas porque muestra la autenticidad y el compromiso de los clientes con la marca. Muchas empresas fomentan y promueven el UGC como parte de sus estrategias de marketing en redes sociales.",
+      "img": "https://image.ondacero.es/clipping/cmsimages01/2021/06/30/1F2EF7C5-6F61-480C-99E4-C9CA53FFFBFF/98.jpg?crop=1416,797,x0,y0&width=1900&height=1069&optimize=high&format=webply"
     },
     {
       "concepto": "Hashtag",
-      "significado": "Un hashtag es una palabra o frase precedida por el símbolo '#' (como #Ejemplo). Se utiliza en redes sociales para etiquetar y categorizar contenido relacionado. Los hashtags permiten a los usuarios buscar contenido específico y participar en conversaciones temáticas. También se utilizan en campañas de marketing en redes sociales para aumentar la visibilidad de un tema o una marca. Los hashtags populares a menudo se convierten en tendencias y generan un alto nivel de interacción."
+      "significado": "Un hashtag es una palabra o frase precedida por el símbolo '#' (como #Ejemplo). Se utiliza en redes sociales para etiquetar y categorizar contenido relacionado. Los hashtags permiten a los usuarios buscar contenido específico y participar en conversaciones temáticas. También se utilizan en campañas de marketing en redes sociales para aumentar la visibilidad de un tema o una marca. Los hashtags populares a menudo se convierten en tendencias y generan un alto nivel de interacción.",
+      "img":"https://inbound-marketing.xtresmedia.com/hubfs/que-son-las-redes-sociales-como-funcionan.jpg"
     },
     {
       "concepto": "Participación",
-      "significado": "La participación de la comunidad en redes sociales se refiere a la interacción activa y la contribución de los seguidores o miembros de una comunidad en línea en las discusiones, debates y actividades relacionadas con una marca o tema específico. La participación de la comunidad es fundamental para construir relaciones sólidas y fomentar un sentido de pertenencia en la audiencia. Puede incluir respuestas a preguntas, comentarios, participación en encuestas y contribuciones de contenido generado por el usuario."
+      "significado": "La participación de la comunidad en redes sociales se refiere a la interacción activa y la contribución de los seguidores o miembros de una comunidad en línea en las discusiones, debates y actividades relacionadas con una marca o tema específico. La participación de la comunidad es fundamental para construir relaciones sólidas y fomentar un sentido de pertenencia en la audiencia. Puede incluir respuestas a preguntas, comentarios, participación en encuestas y contribuciones de contenido generado por el usuario.",
+      "img": "https://inbound-marketing.xtresmedia.com/hubfs/que-son-las-redes-sociales-como-funcionan.jpg"
     },
     {
       "concepto": "Métricas de Conversión",
-      "significado": "Las métricas de conversión en redes sociales son indicadores que evalúan el rendimiento de una estrategia en redes sociales en términos de la conversión de seguidores o usuarios en clientes o leads. Estas métricas incluyen tasas de conversión, retorno de la inversión (ROI) y métricas específicas como el número de descargas de un recurso o el número de compras realizadas a través de enlaces de redes sociales."
+      "significado": "Las métricas de conversión en redes sociales son indicadores que evalúan el rendimiento de una estrategia en redes sociales en términos de la conversión de seguidores o usuarios en clientes o leads. Estas métricas incluyen tasas de conversión, retorno de la inversión (ROI) y métricas específicas como el número de descargas de un recurso o el número de compras realizadas a través de enlaces de redes sociales.",
+      "img" : "https://inbound-marketing.xtresmedia.com/hubfs/que-son-las-redes-sociales-como-funcionan.jpg"
     },
     {
       "concepto": "KPI",
-      "significado": "Los KPI, o Indicadores Clave de Rendimiento, son métricas utilizadas para evaluar el éxito de una estrategia en redes sociales. Estos indicadores pueden variar según los objetivos, pero comúnmente incluyen métricas como el alcance, la interacción, el tráfico web, la generación de leads y las conversiones. Los KPI son esenciales para medir el impacto y el retorno de la inversión en las redes sociales."
+      "significado": "Los KPI, o Indicadores Clave de Rendimiento, son métricas utilizadas para evaluar el éxito de una estrategia en redes sociales. Estos indicadores pueden variar según los objetivos, pero comúnmente incluyen métricas como el alcance, la interacción, el tráfico web, la generación de leads y las conversiones. Los KPI son esenciales para medir el impacto y el retorno de la inversión en las redes sociales.",
+      "img": "https://humanidades.com/wp-content/uploads/2018/10/redes-de-computadora-1-e1582281508636.jpg"
     },
     {
       "concepto": "Página de Facebook",
-      "significado": "Una página de Facebook es una presencia en la plataforma destinada a marcas, empresas, organizaciones y figuras públicas. A través de una página, se pueden compartir actualizaciones, promocionar productos o servicios, interactuar con seguidores y medir el rendimiento. Las páginas permiten a las marcas construir una audiencia en Facebook y promocionar sus ofertas."
+      "significado": "Una página de Facebook es una presencia en la plataforma destinada a marcas, empresas, organizaciones y figuras públicas. A través de una página, se pueden compartir actualizaciones, promocionar productos o servicios, interactuar con seguidores y medir el rendimiento. Las páginas permiten a las marcas construir una audiencia en Facebook y promocionar sus ofertas.",
+      "img": "https://humanidades.com/wp-content/uploads/2018/10/redes-de-computadora-1-e1582281508636.jpg"
     },
     
     {
       "concepto": "Grupo de Facebook",
-      "significado": "Un grupo de Facebook es una comunidad en línea donde los usuarios pueden unirse para discutir temas específicos, compartir intereses comunes y participar en conversaciones. Los grupos pueden ser públicos o privados, y los administradores pueden gestionar la membresía y las reglas. Los grupos son utilizados para discutir temas variados, desde pasatiempos y grupos de apoyo hasta discusiones profesionales."
+      "significado": "Un grupo de Facebook es una comunidad en línea donde los usuarios pueden unirse para discutir temas específicos, compartir intereses comunes y participar en conversaciones. Los grupos pueden ser públicos o privados, y los administradores pueden gestionar la membresía y las reglas. Los grupos son utilizados para discutir temas variados, desde pasatiempos y grupos de apoyo hasta discusiones profesionales.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Logo_de_Facebook.png/220px-Logo_de_Facebook.png"
     },
     
     {
       "concepto": "Publicidad en Facebook",
-      "significado": "La publicidad en Facebook se refiere a la promoción de productos, servicios o contenido a través de anuncios pagados en la plataforma. Los anuncios en Facebook pueden dirigirse a audiencias específicas según sus características demográficas, intereses y comportamientos en línea. Los anunciantes pueden crear campañas publicitarias, establecer presupuestos y medir el rendimiento de sus anuncios en términos de alcance, clics y conversiones."
+      "significado": "La publicidad en Facebook se refiere a la promoción de productos, servicios o contenido a través de anuncios pagados en la plataforma. Los anuncios en Facebook pueden dirigirse a audiencias específicas según sus características demográficas, intereses y comportamientos en línea. Los anunciantes pueden crear campañas publicitarias, establecer presupuestos y medir el rendimiento de sus anuncios en términos de alcance, clics y conversiones.",
     },
     {
       "concepto": "Video en TikTok",
-      "significado": "TikTok es una plataforma de redes sociales que se centra en la creación y compartición de videos cortos. Los usuarios pueden crear videos que van desde 15 segundos hasta 3 minutos de duración, y pueden agregar música, efectos especiales y subtítulos. La plataforma es conocida por su énfasis en la creatividad y la diversidad de contenido, desde bailes y comedia hasta tutoriales y desafíos."
+      "significado": "TikTok es una plataforma de redes sociales que se centra en la creación y compartición de videos cortos. Los usuarios pueden crear videos que van desde 15 segundos hasta 3 minutos de duración, y pueden agregar música, efectos especiales y subtítulos. La plataforma es conocida por su énfasis en la creatividad y la diversidad de contenido, desde bailes y comedia hasta tutoriales y desafíos.",
     },
     
     {
       "concepto": "Efectos en TikTok",
-      "significado": "Los efectos en TikTok son características que permiten a los usuarios personalizar y mejorar sus videos. Pueden incluir efectos visuales, filtros, transiciones y otros elementos creativos. Los efectos son una parte fundamental de la creatividad en TikTok y a menudo se utilizan para dar un toque único a los videos y participar en tendencias."
+      "significado": "Los efectos en TikTok son características que permiten a los usuarios personalizar y mejorar sus videos. Pueden incluir efectos visuales, filtros, transiciones y otros elementos creativos. Los efectos son una parte fundamental de la creatividad en TikTok y a menudo se utilizan para dar un toque único a los videos y participar en tendencias.",
     },
     
     {
       "concepto": "Tendencias en TikTok",
-      "significado": "Las tendencias en TikTok son temas, desafíos o canciones populares que se vuelven virales y son ampliamente adoptados por los usuarios de la plataforma. Participar en tendencias es una forma común de aumentar la visibilidad de un video y conectarse con la audiencia. Los usuarios de TikTok a menudo se unen a tendencias al crear su propia versión de un desafío o utilizando una canción popular."
+      "significado": "Las tendencias en TikTok son temas, desafíos o canciones populares que se vuelven virales y son ampliamente adoptados por los usuarios de la plataforma. Participar en tendencias es una forma común de aumentar la visibilidad de un video y conectarse con la audiencia. Los usuarios de TikTok a menudo se unen a tendencias al crear su propia versión de un desafío o utilizando una canción popular.",
     },
     
     {
@@ -239,7 +250,16 @@ const conceptos = [
     {
       "concepto": "Tasa de Abandono",
       "significado": "La tasa de abandono es una métrica que mide el porcentaje de usuarios que abandonan una página web o una aplicación después de visitarla desde un enlace de redes sociales. Una alta tasa de abandono puede indicar que el contenido no cumple las expectativas de los usuarios o que la página de destino no está optimizada para retener a los visitantes."
-    }
+    },
+    {
+      "concepto": "Monetización",
+      "significado": "La monetización de contenido en redes sociales implica ganar dinero a través de la creación y publicación de contenido en plataformas como YouTube, Instagram o TikTok. Esto puede lograrse a través de publicidad, patrocinios, marketing de afiliados, ventas de productos o servicios propios, y donaciones de seguidores. La monetización de contenido es una fuente de ingresos para creadores de contenido y personalidades en línea."
+    },
+    
+    {
+      "concepto": "Escucha Activa",
+      "significado": "La escucha activa en redes sociales es el proceso de rastrear y analizar las conversaciones y menciones de una marca, producto o tema en las redes sociales. Esto se hace para comprender la opinión pública, identificar problemas, responder a comentarios y tomar medidas basadas en los comentarios de la audiencia. La escucha activa es esencial para la gestión de la reputación en línea y la toma de decisiones informadas."
+    },
 
 
 
