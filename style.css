@@ -3,3 +3,38 @@
   color: #ffffff !important;
 }
 
+.scrollable {
+  overflow-y: scroll;
+  height: 600px;
+}
+
+.scrollable::-webkit-scrollbar {
+  -webkit-appearance: none;
+}
+
+.scrollable::-webkit-scrollbar:vertical {
+  width: 10px;
+}
+
+.scrollable::-webkit-scrollbar-button:increment,
+.scrollable::-webkit-scrollbar-button {
+  display: none;
+}
+
+.scrollable::-webkit-scrollbar:horizontal {
+  height: 10px;
+}
+
+.scrollable::-webkit-scrollbar-thumb {
+  background-color: #797979;
+  border-radius: 20px;
+  border: 2px solid #f1f2f3;
+}
+
+.scrollable::-webkit-scrollbar-track {
+  border-radius: 10px;
+}
+
+.container {
+  display: flex;
+}

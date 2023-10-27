@@ -32,11 +32,16 @@ function showConceptsOnList() {
         const contenidoDiv = document.getElementById("content");
         const palabra = conceptos.find(item => item.concepto == enlace.getAttribute("id"));
 
-        if (palabra) {
+        if (palabra && palabra.img) {
           contenidoDiv.innerHTML = `
           <h1 class="text-light">${palabra.concepto}</h1>
           <p class="text-light">${palabra.significado}</p>
           <img src="${palabra.img}" alt="${palabra.significado}" class="img-fluid">
+          `;
+        } else {
+          contenidoDiv.innerHTML = `
+          <h1 class="text-light">${palabra.concepto}</h1>
+          <p class="text-light">${palabra.significado}</p>
           `;
         }
 
